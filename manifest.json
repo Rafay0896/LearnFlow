@@ -1,0 +1,17 @@
+{
+  "name": "LearnLoop",
+  "short_name": "LearnLoop",
+  "description": "Daily headline learning — gamified, focused, fast.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#FAF8F4",
+  "theme_color": "#FAF8F4",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'><rect width='192' height='192' rx='32' fill='%23F59E0B'/><text x='96' y='130' font-size='100' text-anchor='middle'>📰</text></svg>",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    }
+  ],
+  "orientation": "portrait"
+}
